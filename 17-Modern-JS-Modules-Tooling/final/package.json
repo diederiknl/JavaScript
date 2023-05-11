@@ -13,7 +13,7 @@
     "core-js": "^3.6.5",
     "leaflet": "^1.6.0",
     "lodash-es": "^4.17.15",
-    "regenerator-runtime": "^0.13.7"
+    "regenerator-runtime": "^0.13.10"
   },
   "devDependencies": {
     "parcel": "^1.12.4"
